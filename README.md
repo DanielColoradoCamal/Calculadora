@@ -5,10 +5,10 @@ Se crea simulador  de calculadora basica con UI.
 se utilizo JS, HTML5 y CSS3.
 
 la calculadora realiza operaciones básicas
--suma
--resta
--multiplicación
--división
+- suma
+- resta
+- multiplicación
+- división
 
 ## Vista
 
