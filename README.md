@@ -16,5 +16,5 @@ Esta es la vista de la calculadora.
 
 ![vista de calculadora](img/img-cal.png)
 
-![Gif de calculadora](img/gif-cal.mpa)
+![Gif de calculadora](img/gif-calculadora.gif)
 
